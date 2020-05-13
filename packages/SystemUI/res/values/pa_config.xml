@@ -40,4 +40,7 @@
     <string name="quick_settings_tiles_extra" translatable="false">
         caffeine,screenstabilization,screen_record
     </string>
+
+    <!-- Enable face auth only when swiping security view -->
+    <bool name="config_faceAuthOnlyOnSecurityView">false</bool>
 </resources>
